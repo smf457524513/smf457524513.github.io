@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Mingfeng Shang"
-title_separator          : "-"
+title                    : "Mingfeng Shang"
+title_separator          : "."
 name                     : &name "Mingfeng Shang"
 description              : &description "personal description"
 url                      : https://www.mingfengshang.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "smf457524513/smf457524513.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +24,11 @@ author:
   avatar           : "smf.png"
   name             : "Mingfeng Shang"
   pronouns         : "he/him" # example: "she/her"
-  bio              : "Research Assistant Professor"
+  bio              : "Assistant Research Professor"
   location         : "Tucson, AZ"
   employer         : "The University of Arizona"
   # uri              : # URL
-  email            : "shang140@umn.edu"
+  email            : "mfshang@arizona.edu"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -304,6 +304,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag        # ← add
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -313,6 +314,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag        # ← add
 
 
 # Archives
@@ -343,6 +345,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+timezone: America/Phoenix
 
 # HTML Compression
 # - http://jch.penibelst.de/
