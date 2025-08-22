@@ -30,7 +30,6 @@ I work on heterogeneous driving behavior, mixed C/AV traffic modeling, transport
 
 ## Featured Publications {#publications}
 
-- **A Two-Condition Continuous Asymmetric Car-Following Model for ACC Vehicles**, *IEEE T-IV*, 2025. [PDF](/files/papers/acc_two_condition.pdf) · DOI · Code  
-- **End-to-End Learning of User Equilibrium with Implicit Neural Networks**, *TR Part C*, 2023. [PDF](/files/papers/e2e_UE.pdf) · DOI · Preprint
+
 
 ---
