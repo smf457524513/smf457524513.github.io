@@ -26,23 +26,32 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-<!-- Import EB Garamond from Google Fonts -->
+<!-- Load EB Garamond from Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
-  /* Apply EB Garamond everywhere */
-  body,
-  .page__title,
-  .archive__item-title,
-  h1, h2, h3, h4, h5, h6,
-  .author__content .author__name,   /* left sidebar name */
-  .author__content,                 /* left sidebar bio/location */
-  .author__urls-wrapper             /* left sidebar links */
-  {
-    font-family: 'EB Garamond', serif !important;
-  }
+:root {
+  --site-font: 'EB Garamond', serif;
+}
+
+/* Apply EB Garamond globally */
+body,
+.page, .page__content, .page__title, .page__meta, .page__footer,
+.masthead, .masthead * , .greedy-nav a, .site-title, .site-nav,
+.sidebar, .author__content, .author__name, .author__urls-wrapper, .author__urls,
+.nav__list, .toc, .toc__menu,
+.archive__item-title, .archive__item-excerpt, .taxonomy__index,
+.notice, .btn, .btn--inverse, .btn--light, .pagination,
+input, select, textarea {
+  font-family: var(--site-font) !important;
+}
+
+/* Keep code blocks monospace */
+code, pre, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace !important;
+}
 </style>
 
 <!-- Change shape of the photo -->
