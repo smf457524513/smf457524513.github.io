@@ -23,6 +23,7 @@ My research focuses on heterogeneous driving behavior, traffic modeling for conn
 
 ## Research {#research}
 
+## Featured Publications {#publications}
 
 
 <!---
