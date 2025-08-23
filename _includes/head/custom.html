@@ -52,13 +52,14 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 
 <style>
+/* Make the author photo square */
+.author__avatar,
 .author__avatar img {
-  width: 200px;           /* force square */
-  height: 200px;          /* same height */
-  object-fit: cover;      /* crop evenly */
-  border-radius: 50%;     /* make it a perfect circle */
-  border: 4px solid #ccc; /* ring around the photo */
-  box-shadow: 0 0 6px rgba(0,0,0,0.2); /* optional soft glow */
+  border-radius: 0 !important;  /* sharp corners */
+  box-shadow: none !important;  /* no ring */
+  width: 220px;                 /* adjust as you like */
+  height: auto;
+  object-fit: cover;            /* keeps aspect ratio */
 }
 </style>
 
