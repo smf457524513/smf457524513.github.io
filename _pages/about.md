@@ -1,10 +1,13 @@
 ---
+layout: single
 permalink: /
 title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: wide
+toc: false
 ---
 I am a Research Assistant Professor at the Center for Applied Transportation Sciences (CATS) at the University of Arizona. I earned my Ph.D. from the University of Minnesota in June 2024 under the mentorship of [Dr. Raphael E. Stern](https://cse.umn.edu/cege/stern-raphael). I received an MSc degree in Civil Engineering from the University of Illinois, Urbana-Champaign (UIUC) in 2018 and a BSc degree in Civil Engineering from Southwest Jiaotong University, Chengdu, China, in 2017.
 
