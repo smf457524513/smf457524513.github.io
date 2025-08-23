@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "smf.png"
   name             : "Mingfeng Shang"
-  pronouns         : "he/him" # example: "she/her"
+  # pronouns         : "he/him" # example: "she/her"
   bio              : "Assistant Research Professor"
  # location         : "Tucson, AZ"
   employer         : "The University of Arizona, Tucson, AZ"
