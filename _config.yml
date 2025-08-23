@@ -25,8 +25,8 @@ author:
   name             : "Mingfeng Shang"
   pronouns         : "he/him" # example: "she/her"
   bio              : "Assistant Research Professor"
-  location         : "Tucson, AZ"
-  employer         : "The University of Arizona"
+ # location         : "Tucson, AZ"
+  employer         : "The University of Arizona, Tucson, AZ"
   # uri              : # URL
   email            : "mfshang@arizona.edu"
 
