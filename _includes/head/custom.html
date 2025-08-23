@@ -26,7 +26,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-hWY6Zcnk7m5yG2+uBtXhN3kN3kZcnpmj+TgOQyIkwEoXWGWpY9V7YpSxFJ2SxkzVQzX2K9gJQ03Xe3oaM3KNrA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- Icon fonts -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css" crossorigin="anonymous">
 
 
 <!-- Load EB Garamond from Google Fonts -->
@@ -51,6 +53,20 @@ body,
 input, select, textarea,
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--site-font) !important;
+}
+/* ---- Restore icon fonts that our global override replaced ---- */
+.fa, .fas, .far, .fal, .fad { 
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 900; /* solid weight shows correctly */
+}
+.fab { 
+  font-family: "Font Awesome 5 Brands" !important;
+  font-weight: 400;
+}
+/* Academicons (e.g., Google Scholar) */
+.ai, [class^="ai-"], [class*=" ai-"] {
+  font-family: "Academicons" !important;
+  font-weight: 400;
 }
 </style>
 
