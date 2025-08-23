@@ -20,7 +20,7 @@ My research focuses on heterogeneous driving behavior, traffic modeling for conn
 * Jan. 2024: Our paper, ''A Two-Condition Continuous Asymmetric Car-Following Model for Adaptive Cruise Control Vehicles,'' was published in IEEE Transactions on Intelligent Vehicles. [Early access](https://ieeexplore.ieee.org/document/10380740) can be found here. 
 * Nov. 2023: I received the 2023 ITS Minnesota Educational Scholarship from ITS Minnesota
 
-<!---News and Updates--->
+
 ## Research {#research}
 
 
