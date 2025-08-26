@@ -27,8 +27,12 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 ## Featured Publications {#publications}
 
 
-## Sponsored Projects {#projects}
+## Sponsored Projects 📝  {#projects}
 
+- **SPR-792: State of the Practice of a Data Management Office Within DOTs**  
+  Role: Principal Investigator (PI)
+  Sponsor: Arizona Department of Transportation (ADOT)  
+  Budget: $55,000 | Aug 2024 – Sep 2025  
 
 ## Teaching 👨‍🏫 {#teaching}
 ### Instructor at the University of Arizona
