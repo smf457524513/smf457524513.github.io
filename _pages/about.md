@@ -65,7 +65,8 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - **Shang, M.**, Rosenblad, B., Stern, R. *A novel asymmetric car-following model for driver-assist enabled vehicle dynamics.*  
   *IEEE Transactions on Intelligent Transportation Systems*, 2022.  
 - **Shang, M.**, Stern, R. *Impacts of commercially available adaptive cruise control vehicles on highway stability and throughput.*  
-  *Transportation Research Part C*, 2021.  
+  *Transportation Research Part C*, 2021.
+  
 ---
 
 ### Other Papers
@@ -79,7 +80,8 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - Jeon, H., Benekohal, R., Garshasebi, B., **Shang, M.** *Comparison of an adaptive signal system to a time-based coordination plan along a signalized arterial.*  
   *Advances in Transportation Studies*, 2022.
 - Levin, M., **Shang, M.**, Stern, R. *Effects of short-term travel on COVID-19 spread: A novel SEIR model and case study in Minnesota.*  
-  *PLOS ONE*, 2021. 
+  *PLOS ONE*, 2021.
+  
 ---
 
 ###  Manuscripts Under Review
