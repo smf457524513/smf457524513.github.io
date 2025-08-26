@@ -31,6 +31,18 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 
 ## Connect {#connect}
+I enjoy collaborating with colleagues, agencies, and students on advancing safer, smarter, and more sustainable transportation systems.  
+If you’re interested in partnerships, projects, or just exchanging ideas, I’d be glad to connect.
+
+**Research Collaborations**  
+Welcome opportunities to co-develop research projects and grant proposals that connect academic insights with real-world impact.
+
+**Talks & Engagements**  
+Available for invited talks, workshops, and guest lectures that bridge research with real-world applications in mobility, data, and infrastructure.
+
+**Get in Touch**  
+Feel free to reach out anytime:  
+- 📧 Email: mfshang at arizona dot edu 
 
 <!---
 * Oct. 2023: I presented the joint work with [Dr. Shian Wang](https://www.shianwang.xyz/), ''Analytical characterization of cyberattacks on adaptive cruise
