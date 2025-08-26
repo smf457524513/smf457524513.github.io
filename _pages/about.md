@@ -24,10 +24,16 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 ## Research {#research}
 
 
+## Featured Publications {#publications}
+
+
 ## Sponsored Projects {#projects}
 
 
-## Featured Publications {#publications}
+## Teaching 👨‍🏫 {#teaching}
+### Instructor at the University of Arizona
+- Fall 2025: **CE 363: Transportation Engineering and Pavement Design**
+- Fall 2024: **CE 463/563: Traffic Flow and Capacity Analysis** 
 
 
 ## Connect with me 😊 {#connect}
