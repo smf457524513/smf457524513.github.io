@@ -8,9 +8,9 @@ redirect_from:
 classes: wide
 toc: false
 ---
-I am a Research Assistant Professor at the Center for Applied Transportation Sciences (CATS) at the University of Arizona. I earned my Ph.D. from the University of Minnesota in June 2024 under the mentorship of [Dr. Raphael E. Stern](https://cse.umn.edu/cege/stern-raphael). I received an MSc degree in Civil Engineering from the University of Illinois, Urbana-Champaign (UIUC) in 2018 and a BSc degree in Civil Engineering from Southwest Jiaotong University, Chengdu, China, in 2017.
+I am Mingfeng Shang, Ph.D., an Assistant Research Professor in the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona. I serve as Core Faculty with the [Center for Applied Transportation Sciences (CATS)](https://appliedtransportation.arizona.edu/) and Affiliated Faculty with the [Arizona Transportation Institute (AzTI)](https://azti.arizona.edu/). I earned my Ph.D. from the University of Minnesota in June 2024 under [Dr. Raphael E. Stern](https://cse.umn.edu/cege/stern-raphael).
 
-My research focuses on heterogeneous driving behavior, traffic modeling for connected and automated vehicles, transportation cyber-physical systems, and transportation data analytics. Please find my publications on my [Google Scholar](https://scholar.google.com/citations?user=LNfQOIoAAAAJ&hl=en&authuser=1&oi=ao).
+My research focuses on integrating mathematical modeling, control theory, and AI to understand heterogeneous and mixed-autonomy traffic systems, enabling safer, more efficient, sustainable, and cyber-resilient transportation networks. 
 
 
 
