@@ -23,8 +23,14 @@ My research focuses on heterogeneous driving behavior, traffic modeling for conn
 
 ## Research {#research}
 
+
+## Sponsored Projects {#projects}
+
+
 ## Featured Publications {#publications}
 
+
+## Connect {#connect}
 
 <!---
 * Oct. 2023: I presented the joint work with [Dr. Shian Wang](https://www.shianwang.xyz/), ''Analytical characterization of cyberattacks on adaptive cruise
