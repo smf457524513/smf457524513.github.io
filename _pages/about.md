@@ -23,6 +23,36 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 ## Research {#research}
 
+## 🔬 Research
+
+My research integrates **mathematical modeling, control theory, and artificial intelligence (AI)** to develop safer, more efficient, sustainable, and cyber-resilient transportation systems.  
+
+---
+
+### 1. Modeling & Simulation in Mixed Autonomy Traffic
+![Modeling and Simulation](assets/research_modeling.png)
+
+- Developed physically interpretable car-following models calibrated with real trajectory data.  
+- Quantified how adaptive cruise control (ACC) vehicles influence traffic stability, throughput, and emissions.  
+- Findings published in *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Intelligent Vehicles*, and *Transportation Research Part C*.  
+
+---
+
+### 2. Infrastructure Control in Mixed Autonomy
+![Infrastructure Control](assets/research_control.png)
+
+- Sponsored by MnDOT to adapt ramp metering and variable speed limits to traffic with ACC vehicles.  
+- Created macroscopic models mapping car-following dynamics to flow characteristics.  
+- Demonstrated 36% improvement in ramp metering performance compared to traditional methods.  
+
+---
+
+### 3. AI for Sustainable Transportation Systems
+![AI and Sustainability](assets/research_ai_sustainability.png)
+
+- Co-PI on *Impact of Transportation Electrification on Air Quality and Health in Arizona*.  
+- Designed a multi-stage AI framework (with GANs) to classify automated and electric vehicles from limited traffic data.  
+- Presented results at the 2025 Transportation Research Symposium in the Netherlands.  
 
 ## Featured Publications {#publications}
 
