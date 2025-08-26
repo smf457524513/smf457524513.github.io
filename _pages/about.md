@@ -42,7 +42,7 @@ Available for invited talks, workshops, and guest lectures that bridge research 
 
 **Get in Touch**  
 Feel free to reach out anytime:  
-- 📧 Email: mfshang at arizona dot edu 
+- Email: mfshang at arizona dot edu 
 
 <!---
 * Oct. 2023: I presented the joint work with [Dr. Shian Wang](https://www.shianwang.xyz/), ''Analytical characterization of cyberattacks on adaptive cruise
