@@ -30,7 +30,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 ## Featured Publications {#publications}
 
 
-## Connect {#connect}
+## Connect with me 😊 {#connect}
 I enjoy collaborating with colleagues, agencies, and students on advancing safer, smarter, and more sustainable transportation systems.  
 If you’re interested in partnerships, projects, or just exchanging ideas, I’d be glad to connect.
 
