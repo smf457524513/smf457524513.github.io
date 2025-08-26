@@ -8,10 +8,12 @@ main:
      url: "/#news"
    - title: "Research"
      url: "/#research"
+   - title: "Projects"
+     url: "/#project"
    - title: "Publications"
      url: "/#publications"
-   #- title: "Publications"
-   # url: /publications/
+   - title: "Connect"
+     url: "/#connect"
      
 
  #- title: "Talks"
