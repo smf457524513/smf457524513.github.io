@@ -55,7 +55,45 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - Presented results at the 2025 Transportation Research Symposium in the Netherlands.
 --->
 
-## Featured Publications {#publications}
+## Featured Publications 📚  {#publications}
+
+
+- **Shang, M.**, Wang, S., Stern, R. *A two-condition continuous asymmetric car-following model for adaptive cruise control vehicles.*  
+  *IEEE Transactions on Intelligent Vehicles*, 2024.  
+- **Shang, M.**, Wang, S., Stern, R. *Extending ramp metering control to mixed autonomy traffic flow with varying degrees of automation.*  
+  *Transportation Research Part C*, 2023.  
+- **Shang, M.**, Rosenblad, B., Stern, R. *A novel asymmetric car-following model for driver-assist enabled vehicle dynamics.*  
+  *IEEE Transactions on Intelligent Transportation Systems*, 2022.  
+- **Shang, M.**, Stern, R. *Impacts of commercially available adaptive cruise control vehicles on highway stability and throughput.*  
+  *Transportation Research Part C*, 2021.  
+---
+
+### Other Papers
+
+- Li, T., **Shang, M.**, Wang, S., Stern, R. *Detecting subtle cyberattacks on adaptive cruise control vehicles: A machine learning approach.*  
+  *IEEE Open Journal of Intelligent Transportation Systems*, 2024.  
+- Wang, S., **Shang, M.**, Stern, R. *Analytical characterization of cyberattacks on adaptive cruise control vehicles.*  
+  *IEEE Transactions on Intelligent Transportation Systems*, 2024.  
+- Wang, S., **Shang, M.**, Levin, M., Stern, R. *A general approach to smoothing nonlinear mixed traffic via control of autonomous vehicles.*  
+  *Transportation Research Part C*, 2023.
+- Jeon, H., Benekohal, R., Garshasebi, B., **Shang, M.** *Comparison of an adaptive signal system to a time-based coordination plan along a signalized arterial.*  
+  *Advances in Transportation Studies*, 2022.
+- Levin, M., **Shang, M.**, Stern, R. *Effects of short-term travel on COVID-19 spread: A novel SEIR model and case study in Minnesota.*  
+  *PLOS ONE*, 2021. 
+---
+
+###  Manuscripts Under Review
+- Geffen, G., **Shang, M.**, Wu, Y.J. *Evaluating factors influencing post-crash traffic speeds and predictive machine learning models.*  
+  
+
+- Geffen, G., **Shang, M.**, Wu, Y.J. *Novel weather severity classifications based on speed variations using machine learning techniques.*  
+
+
+- Zare, A., **Shang, M.**, Kan, D., Stern, R. *Generalized multi-phase car-following model for vehicles with adaptive cruise control: Behavioral dynamics and experimental validation for electric vehicles.*  
+  
+
+- Rosenblad, B., **Shang, M.**, Stern, R. *Extending existing ramp metering control in the field for mixed-autonomy traffic.*  
+ 
 
 
 ## Sponsored Projects 📝  {#projects}
