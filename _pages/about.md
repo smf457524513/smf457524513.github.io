@@ -34,11 +34,11 @@ My research focuses on integrating mathematical modeling, control theory, and AI
   Sponsor: Arizona Department of Transportation (ADOT)  
 
 - **Impact of Transportation Electrification on Air Quality and Health in Arizona**  
-  Role: Co-PI 
+  Role: Co-PI           
   Sponsor: University of Arizona, Technology and Research Initiative Fund (TRIF)  
 
 - **Pilot Study of Connected Vehicle Applications to Enhance Incident Response and Roadway Safety**  
-  Role: Co-PI 
+  Role: Co-PI         
   Sponsor: City of Phoenix  
 
 
