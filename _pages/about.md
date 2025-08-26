@@ -14,19 +14,19 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 
 
-<!---News and Updates--->
+
 ## News {#news}
 
 * Jan. 2024: Our paper, ''A Two-Condition Continuous Asymmetric Car-Following Model for Adaptive Cruise Control Vehicles,'' was published in IEEE Transactions on Intelligent Vehicles. [Early access](https://ieeexplore.ieee.org/document/10380740) can be found here. 
 * Nov. 2023: I received the 2023 ITS Minnesota Educational Scholarship from ITS Minnesota
 
 
-## Research {#research}
+## Research 🔬 {#research}
 
-## 🔬 Research
 
 My research integrates **mathematical modeling, control theory, and artificial intelligence (AI)** to develop safer, more efficient, sustainable, and cyber-resilient transportation systems.  
 
+<!---
 ---
 
 ### 1. Modeling & Simulation in Mixed Autonomy Traffic
@@ -52,7 +52,8 @@ My research integrates **mathematical modeling, control theory, and artificial i
 
 - Co-PI on *Impact of Transportation Electrification on Air Quality and Health in Arizona*.  
 - Designed a multi-stage AI framework (with GANs) to classify automated and electric vehicles from limited traffic data.  
-- Presented results at the 2025 Transportation Research Symposium in the Netherlands.  
+- Presented results at the 2025 Transportation Research Symposium in the Netherlands.
+--->
 
 ## Featured Publications {#publications}
 
