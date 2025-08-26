@@ -31,7 +31,6 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 - **SPR-792: State of the Practice of a Data Management Office Within DOTs**  
   Role: Principal Investigator (PI)
-  
   Sponsor: Arizona Department of Transportation (ADOT)  
   Budget: $55,000 | Aug 2024 – Sep 2025  
 
