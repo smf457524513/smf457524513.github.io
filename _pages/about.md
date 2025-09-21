@@ -95,14 +95,15 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - Levin, M., **Shang, M.**, Stern, R. *Effects of short-term travel on COVID-19 spread: A novel SEIR model and case study in Minnesota.*  
   *PLOS ONE*, 2021.
   
----
 
+<!---
+---
 ###  Manuscripts Under Review
 - Geffen, G., **Shang, M.**, Wu, Y.J. *Evaluating factors influencing post-crash traffic speeds and predictive machine learning models.*  
 - Geffen, G., **Shang, M.**, Wu, Y.J. *Novel weather severity classifications based on speed variations using machine learning techniques.*  
 - Zare, A., **Shang, M.**, Kan, D., Stern, R. *Generalized multi-phase car-following model for vehicles with adaptive cruise control: Behavioral dynamics and experimental validation for electric vehicles.*  
 - Rosenblad, B., **Shang, M.**, Stern, R. *Extending existing ramp metering control in the field for mixed-autonomy traffic.*  
- 
+ --->
 
 
 ## Sponsored Projects 📝  {#projects}
