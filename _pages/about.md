@@ -38,12 +38,21 @@ My research integrates **mathematical modeling, control theory, and artificial i
 --->
 ---
 
-### 2. Infrastructure Control in Mixed Autonomy
-![Infrastructure Control](assets/research_control.png)
+## 2. Infrastructure Control in Mixed Autonomy
 
-- Sponsored by MnDOT to adapt ramp metering and variable speed limits to traffic with ACC vehicles.  
-- Created macroscopic models mapping car-following dynamics to flow characteristics.  
-- Demonstrated 36% improvement in ramp metering performance compared to traditional methods.  
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="flex: 1;">
+    <img src="assets/research_control.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+
+  <div style="flex: 1;">
+    - Sponsored by MnDOT to adapt ramp metering and variable speed limits to mixed traffic.  
+    - Developed macroscopic models linking car-following behavior to flow performance.  
+    - Demonstrated 36% improvement in ramp metering outcomes compared to traditional methods.  
+  </div>
+
+</div>
 
 
 <!---
