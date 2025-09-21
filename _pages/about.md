@@ -43,7 +43,7 @@ My research integrates **mathematical modeling, control theory, and artificial i
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <div style="flex: 1;">
-    <img src="assets/research_control_cropped2.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+    <img src="assets/research_contro.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 
   <div style="flex: 1;">
