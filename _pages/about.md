@@ -38,7 +38,7 @@ My research integrates **mathematical modeling, control theory, and artificial i
 --->
 ---
 
-## 2. Infrastructure Control in Mixed Autonomy
+## Infrastructure Control in Mixed Autonomy
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
