@@ -35,7 +35,7 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - Developed physically interpretable car-following models calibrated with real trajectory data.  
 - Quantified how adaptive cruise control (ACC) vehicles influence traffic stability, throughput, and emissions.  
 - Findings published in *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Intelligent Vehicles*, and *Transportation Research Part C*.  
-
+--->
 ---
 
 ### 2. Infrastructure Control in Mixed Autonomy
@@ -45,6 +45,8 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - Created macroscopic models mapping car-following dynamics to flow characteristics.  
 - Demonstrated 36% improvement in ramp metering performance compared to traditional methods.  
 
+
+<!---
 ---
 
 ### 3. AI for Sustainable Transportation Systems
