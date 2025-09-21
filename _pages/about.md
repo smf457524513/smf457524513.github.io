@@ -27,7 +27,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 My research integrates **mathematical modeling, control theory, and artificial intelligence (AI)** to develop safer, more efficient, sustainable, and cyber-resilient transportation systems.  
 
 <!---
----
+
 
 ### 1. Modeling & Simulation in Mixed Autonomy Traffic
 ![Modeling and Simulation](assets/research_modeling.png)
