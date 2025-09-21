@@ -46,11 +46,13 @@ My research integrates **mathematical modeling, control theory, and artificial i
     <img src="assets/research_control.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 
-  <div style="flex: 1;">
-    - Sponsored by MnDOT to adapt ramp metering and variable speed limits to mixed traffic.  
-    - Developed macroscopic models linking car-following behavior to flow performance.  
-    - Demonstrated 36% improvement in ramp metering outcomes compared to traditional methods.  
-  </div>
+<div style="flex: 1;">
+  <ul>
+    <li>Sponsored by MnDOT to adapt ramp metering to mixed traffic.</li>
+    <li>Developed macroscopic models linking car-following behavior to flow performance.</li>
+    <li>Demonstrated 36% improvement in ramp metering outcomes compared to traditional methods.</li>
+  </ul>
+</div>
 
 </div>
 
