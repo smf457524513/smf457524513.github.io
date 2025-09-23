@@ -15,7 +15,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 
 
-## News {#news}
+## News 📰 {#news}
 
 * Aug. 2025: Our project *“SPR-792: State of the Practice of a Data Management Office Within DOTs”* was featured at the 2025 AZTI Summit in Flagstaff and highlighted by [UA News](https://news.engineering.arizona.edu/news/university-engineers-fast-track-arizona-roadway-improvements).  
 * May 2025: Presented *“Data-Driven Classification of Vehicle Driving Behavior in Mixed Traffic Using Car-Following Trajectories”* at the Transportation Research Symposium (TRS) 2025, Rotterdam, The Netherlands.  
