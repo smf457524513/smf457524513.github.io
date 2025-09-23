@@ -55,9 +55,9 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 <div style="flex: 1;">
   <ul>
-    <li>Sponsored by MnDOT to adapt ramp metering to mixed traffic.</li>
-    <li>Developed macroscopic models linking car-following behavior to flow performance.</li>
-    <li>Demonstrated 36% improvement in ramp metering outcomes compared to traditional methods.</li>
+    <li>Built macro–micro flow models linking car-following dynamics to network-level performance.</li>
+    <li>Designed next-generation ramp metering strategies for mixed autonomy traffic.</li>
+    <li>Demonstrated a 36% improvement in ramp metering effectiveness compared to traditional control strategies.</li>
   </ul>
 </div>
 
