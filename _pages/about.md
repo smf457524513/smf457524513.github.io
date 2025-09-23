@@ -17,8 +17,10 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 ## News {#news}
 
-* Jan. 2024: Our paper, ''A Two-Condition Continuous Asymmetric Car-Following Model for Adaptive Cruise Control Vehicles,'' was published in IEEE Transactions on Intelligent Vehicles. [Early access](https://ieeexplore.ieee.org/document/10380740) can be found here. 
-* Nov. 2023: I received the 2023 ITS Minnesota Educational Scholarship from ITS Minnesota
+* Aug. 2025: Our project *“SPR-792: State of the Practice of a Data Management Office Within DOTs”* was featured at the 2025 AZTI Summit in Flagstaff and highlighted by [UA News](https://news.engineering.arizona.edu/news/university-engineers-fast-track-arizona-roadway-improvements).  
+* May. 2025: Presented *“Data-Driven Classification of Vehicle Driving Behavior in Mixed Traffic Using Car-Following Trajectories”* at the Transportation Research Symposium (TRS) 2025, Rotterdam, The Netherlands.  
+* May. 2025: Honored with the **Intelligent Transportation Society (ITS) Arizona 2025–26 Young Professional Scholarship**.
+
 
 
 ## Research 🔬 {#research}
@@ -38,7 +40,7 @@ My research integrates **mathematical modeling, control theory, and artificial i
 --->
 ---
 
-## Infrastructure Control in Mixed Autonomy
+## 2. Infrastructure Control in Mixed Autonomy
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
@@ -57,16 +59,15 @@ My research integrates **mathematical modeling, control theory, and artificial i
 </div>
 
 
-<!---
+
 ---
 
 ### 3. AI for Sustainable Transportation Systems
-![AI and Sustainability](assets/research_ai_sustainability.png)
 
 - Co-PI on *Impact of Transportation Electrification on Air Quality and Health in Arizona*.  
 - Designed a multi-stage AI framework (with GANs) to classify automated and electric vehicles from limited traffic data.  
 - Presented results at the 2025 Transportation Research Symposium in the Netherlands.
---->
+
 
 ## Featured Publications 📚  {#publications}
 
