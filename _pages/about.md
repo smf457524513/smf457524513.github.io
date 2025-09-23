@@ -25,7 +25,6 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 ## Research 🔬 {#research}
 
-
 ### 1. Modeling & Simulation in Mixed Autonomy Traffic
 
 <div style="display: flex; align-items: center; gap: 20px;">
