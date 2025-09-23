@@ -64,15 +64,29 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 </div>
 
 
-<!---
+
 ---
 
 ### 3. AI for Sustainable Transportation Systems
 
-- Co-PI on *Impact of Transportation Electrification on Air Quality and Health in Arizona*.  
-- Designed a multi-stage AI framework (with GANs) to classify automated and electric vehicles from limited traffic data.  
-- Presented results at the 2025 Transportation Research Symposium in the Netherlands.
- --->
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="flex: 1;">
+    <img src="assets/research_control.jpeg" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+
+<div style="flex: 1;">
+  <ul>
+    <li> Co-PI and led a group on a statewide project examining transportation electrification and air quality in Arizona.</li>
+    <li> Designed a multi-stage AI framework to classify AVs, EVs, and human-driven vehicles from trajectory data.</li>
+    <li> Leveraged Generative Adversarial Networks (GANs) to address data imbalance.</li>
+  </ul>
+</div>
+
+</div>
+
+
+
 
 ## Featured Publications 📚  {#publications}
 
