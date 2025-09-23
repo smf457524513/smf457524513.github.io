@@ -26,18 +26,24 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 ## Research 🔬 {#research}
 
 
-My research integrates **mathematical modeling, control theory, and artificial intelligence (AI)** to develop safer, more efficient, sustainable, and cyber-resilient transportation systems.  
-
-<!---
-
-
 ### 1. Modeling & Simulation in Mixed Autonomy Traffic
-![Modeling and Simulation](assets/research_modeling.png)
 
-- Developed physically interpretable car-following models calibrated with real trajectory data.  
-- Quantified how adaptive cruise control (ACC) vehicles influence traffic stability, throughput, and emissions.  
-- Findings published in *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Intelligent Vehicles*, and *Transportation Research Part C*.  
---->
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div style="flex: 1;">
+    <img src="assets/research_control.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+  </div>
+
+<div style="flex: 1;">
+  <ul>
+    <li>Developed physically interpretable car-following models calibrated with real trajectory data. </li>
+    <li>Quantified how adaptive cruise control (ACC) vehicles influence traffic stability, throughput, and emissions.  </li>
+    <li>Findings published in *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Intelligent Vehicles*, and *Transportation Research Part C*.</li>
+  </ul>
+</div>
+
+</div>
+
 ---
 
 ## 2. Infrastructure Control in Mixed Autonomy
@@ -59,7 +65,7 @@ My research integrates **mathematical modeling, control theory, and artificial i
 </div>
 
 
-
+<!---
 ---
 
 ### 3. AI for Sustainable Transportation Systems
@@ -67,7 +73,7 @@ My research integrates **mathematical modeling, control theory, and artificial i
 - Co-PI on *Impact of Transportation Electrification on Air Quality and Health in Arizona*.  
 - Designed a multi-stage AI framework (with GANs) to classify automated and electric vehicles from limited traffic data.  
 - Presented results at the 2025 Transportation Research Symposium in the Netherlands.
-
+ --->
 
 ## Featured Publications 📚  {#publications}
 
