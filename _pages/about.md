@@ -19,19 +19,19 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 * Aug. 2025: Our project *“SPR-792: State of the Practice of a Data Management Office Within DOTs”* was featured at the 2025 AZTI Summit in Flagstaff and highlighted by [UA News](https://news.engineering.arizona.edu/news/university-engineers-fast-track-arizona-roadway-improvements).  
 * May. 2025: Presented *“Data-Driven Classification of Vehicle Driving Behavior in Mixed Traffic Using Car-Following Trajectories”* at the Transportation Research Symposium (TRS) 2025, Rotterdam, The Netherlands.  
-* May. 2025: Honored with the **Intelligent Transportation Society (ITS) Arizona 2025–26 Young Professional Scholarship**.
+* May. 2025: Honored with the Intelligent Transportation Society (ITS) Arizona 2025–26 Young Professional Scholarship.
 
 
 
 ## Research 🔬 {#research}
 
 
-### 1. Modeling & Simulation in Mixed Autonomy Traffic
+## 1. Modeling & Simulation in Mixed Autonomy Traffic
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <div style="flex: 1;">
-    <img src="assets/research_control.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+    <img src="assets/research_model.png" alt="Infrastructure Control" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 
 <div style="flex: 1;">
