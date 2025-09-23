@@ -30,11 +30,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 <div style="display: flex; align-items: center; gap: 20px;">
 
   <div style="flex: 1;">
-   <embed src="assets/research_model2.pdf" 
-           type="application/pdf" 
-           width="100%" 
-           height="400px" 
-           style="border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1);" />
+    <img src="assets/research_model.jpg" alt="Modeling & Simulation in Mixed Autonomy Traffic" style="max-width:100%; border-radius:8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 
 <div style="flex: 1;">
