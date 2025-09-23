@@ -36,8 +36,8 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 <div style="flex: 1;">
   <ul>
     <li>Developed physically interpretable car-following models calibrated with real trajectory data. </li>
-    <li>Quantified how adaptive cruise control (ACC) vehicles influence traffic stability, throughput, and emissions.  </li>
-    <li>Findings published in *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Intelligent Vehicles*, and *Transportation Research Part C*.</li>
+    <li> Showed how AV penetration rates impact string stability, throughput, fuel use, and emissions in mixed traffic. </li>
+    <li> Results published in IEEE T-ITS, IEEE T-IV, and Transportation Research Part C. </li>
   </ul>
 </div>
 
