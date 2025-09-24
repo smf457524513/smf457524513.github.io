@@ -143,11 +143,12 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 ### Students Co-Advised with Dr. Yao-Jan Wu at the University of Arizona
 
-- Gabriel Geffen: July 2024 - Present
-- Udaya Adhikari: July 2024 - Present
-- Xi Zhang, Ph.D.: August 2024 - May 2025
-  
-  *Dissertation Title: Enhanced Assessment of Intelligent Traffic Control Devices for Vehicle and Pedestrian Safety*
+<li> Gabriel Geffen: July 2024 - Present </li>
+<li> Udaya Adhikari: July 2024 - Present  </li>
+<li>
+  Xi Zhang, Ph.D.: August 2024 – May 2025 <br>
+  <span style="font-style: italic;">Dissertation Title: Enhanced Assessment of Intelligent Traffic Control Devices for Vehicle and Pedestrian Safety</span>
+</li>
 
 
 ## Connect with me 😊 {#connect}
