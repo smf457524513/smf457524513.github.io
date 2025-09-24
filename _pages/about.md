@@ -146,6 +146,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 - Gabriel Geffen: July 2024 - Present
 - Udaya Adhikari: July 2024 - Present
 - Xi Zhang, Ph.D.: August 2024 - May 2025
+  *Dissertation Title: Enhanced Assessment of Intelligent Traffic Control Devices for Vehicle and Pedestrian Safety*
 
 
 ## Connect with me 😊 {#connect}
