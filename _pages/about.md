@@ -136,7 +136,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
   Sponsor: City of Phoenix  
 
 
-## Teaching and Advising 👨‍🏫 {#teaching}
+## Teaching and Mentoring 👨‍🏫 {#teaching}
 ### Instructor at the University of Arizona
 - Fall 2025: CE 363: Transportation Engineering and Pavement Design
 - Fall 2024: CE 463/563: Traffic Flow and Capacity Analysis
