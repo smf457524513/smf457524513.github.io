@@ -88,7 +88,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 
 
-## Featured Publications 📚  {#publications}
+## Publications 📚  {#publications}
 
 
 - **Shang, M.**, Wang, S., Stern, R. *A two-condition continuous asymmetric car-following model for adaptive cruise control vehicles.*  
@@ -99,11 +99,6 @@ My research focuses on integrating mathematical modeling, control theory, and AI
   *IEEE Transactions on Intelligent Transportation Systems*, 2022.  
 - **Shang, M.**, Stern, R. *Impacts of commercially available adaptive cruise control vehicles on highway stability and throughput.*  
   *Transportation Research Part C*, 2021.
-  
----
-
-### Other Papers
-
 - Li, T., **Shang, M.**, Wang, S., Stern, R. *Detecting subtle cyberattacks on adaptive cruise control vehicles: A machine learning approach.*  
   *IEEE Open Journal of Intelligent Transportation Systems*, 2024.  
 - Wang, S., **Shang, M.**, Stern, R. *Analytical characterization of cyberattacks on adaptive cruise control vehicles.*  
@@ -141,10 +136,16 @@ My research focuses on integrating mathematical modeling, control theory, and AI
   Sponsor: City of Phoenix  
 
 
-## Teaching 👨‍🏫 {#teaching}
+## Teaching and Advising 👨‍🏫 {#teaching}
 ### Instructor at the University of Arizona
 - Fall 2025: CE 363: Transportation Engineering and Pavement Design
 - Fall 2024: CE 463/563: Traffic Flow and Capacity Analysis
+
+### Students Co-Advised with Dr. Yao-Jan Wu at the University of Arizona
+
+- Gabriel Geffen: July 2024 - Present
+- Udaya Adhikari: July 2024 - Present
+- Xi Zhang, Ph.D.: August 2024 - May 2025
 
 
 ## Connect with me 😊 {#connect}
