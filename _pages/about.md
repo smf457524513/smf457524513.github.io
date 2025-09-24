@@ -88,7 +88,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 
 
-## Publications 📚  {#publications}
+## Journal Publications 📚  {#publications}
 
 
 - **Shang, M.**, Wang, S., Stern, R. *A two-condition continuous asymmetric car-following model for adaptive cruise control vehicles.*  
