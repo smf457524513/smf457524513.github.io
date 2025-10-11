@@ -17,6 +17,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 ## News 📰 {#news}
 
+* Oct. 2025: Our project *“SPR-798: Statewide Pavement Marking Assessment for Driver-Assist Vehicle Technologies”* was successfully kicked off. 
 * Aug. 2025: Our project *“SPR-792: State of the Practice of a Data Management Office Within DOTs”* was featured at the 2025 AZTI Summit in Flagstaff and highlighted by [UA News](https://news.engineering.arizona.edu/news/university-engineers-fast-track-arizona-roadway-improvements).  
 * May 2025: Presented *“Data-Driven Classification of Vehicle Driving Behavior in Mixed Traffic Using Car-Following Trajectories”* at the Transportation Research Symposium (TRS) 2025, Rotterdam, The Netherlands.  
 * May 2025: Honored with the Intelligent Transportation Society (ITS) Arizona 2025–26 Young Professional Scholarship.
@@ -122,6 +123,12 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 
 ## Sponsored Projects 📝  {#projects}
+
+- **SPR-798: Statewide Pavement Marking Assessment for Driver-Assist Vehicle Technologies**  
+  Role: Principal Investigator (PI)     
+  Sponsor: Arizona Department of Transportation (ADOT)
+  Objective: This project aims to evaluate ADOT’s current pavement-marking practices, identify gaps related to driver-assist technology needs, and develop updated design, assessment, and maintenance guidelines that enhance safety, visibility, and long-term performance for both human drivers and automated systems.
+
 
 - **SPR-792: State of the Practice of a Data Management Office Within DOTs**  
   Role: Principal Investigator (PI)     
