@@ -127,6 +127,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 - **SPR-798: Statewide Pavement Marking Assessment for Driver-Assist Vehicle Technologies**  
   Role: Principal Investigator (PI)     
   Sponsor: Arizona Department of Transportation (ADOT)
+  
   Objective: This project aims to evaluate ADOT’s current pavement-marking practices, identify gaps related to driver-assist technology needs, and develop updated design, assessment, and maintenance guidelines that enhance safety, visibility, and long-term performance for both human drivers and automated systems.
 
 
