@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 main:
   - title: "Open Positions"
-    url: /positions/
+    url: "/#positions"
    - title: "News"
      url: "/#news"
    - title: "Research"
