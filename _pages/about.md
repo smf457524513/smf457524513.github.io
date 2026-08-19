@@ -8,15 +8,18 @@ redirect_from:
 classes: wide
 toc: false
 ---
-I am Mingfeng Shang, Ph.D., an Assistant Research Professor in the Department of Civil & Architectural Engineering & Mechanics at the University of Arizona. I serve as Core Faculty with the [Center for Applied Transportation Sciences (CATS)](https://appliedtransportation.arizona.edu/) and Affiliated Faculty with the [Arizona Transportation Institute (AZTI)](https://azti.arizona.edu/). I earned my Ph.D. from the University of Minnesota in June 2024 under [Dr. Raphael E. Stern](https://cse.umn.edu/cege/stern-raphael).
+I am Mingfeng Shang, Ph.D., a tenure-track Assistant Professor in the Department of Civil Engineering Technology, Environmental Management and Safety (CETEMS) at the Rochester Institute of Technology (RIT). I received my Ph.D. in Civil Engineering from the University of Minnesota in 2024 under [Dr. Raphael E. Stern](https://cse.umn.edu/cege/stern-raphael). Prior to joining RIT, I served as an Assistant Research Professor at the University of Arizona.
 
 My research focuses on integrating mathematical modeling, control theory, and AI to understand heterogeneous and mixed-autonomy traffic systems, enabling safer, more efficient, sustainable, and cyber-resilient transportation networks. 
 
+## Open Positions 🎓 {#positions}
 
+* **Ph.D. Recruitment (Spring/Fall 2027):** I am recruiting **1–2 fully funded Ph.D. students** in Transportation Engineering at RIT. Research areas include traffic flow theory, connected and automated vehicles, transportation systems modeling and control, transportation data science, and intelligent transportation systems. Interested applicants are encouraged to email **mfsite@rit.edu** with a CV, unofficial transcript(s), and a brief cover letter describing their research background and interests.
 
 
 ## News 📰 {#news}
 
+* Aug. 2026: Joined Rochester Institute of Technology (RIT) as a tenure-track Assistant Professor in the Department of Civil Engineering Technology, Environmental Management and Safety.
 * Oct. 2025: Our project *“SPR-798: Statewide Pavement Marking Assessment for Driver-Assist Vehicle Technologies”* was successfully kicked off. 
 * Aug. 2025: Our project *“SPR-792: State of the Practice of a Data Management Office Within DOTs”* was featured at the 2025 AZTI Summit in Flagstaff and highlighted by [UA News](https://news.engineering.arizona.edu/news/university-engineers-fast-track-arizona-roadway-improvements).  
 * May 2025: Presented *“Data-Driven Classification of Vehicle Driving Behavior in Mixed Traffic Using Car-Following Trajectories”* at the Transportation Research Symposium (TRS) 2025, Rotterdam, The Netherlands.  
@@ -149,6 +152,8 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 - Fall 2025: CE 363: Transportation Engineering and Pavement Design
 - Fall 2024: CE 463/563: Traffic Flow and Capacity Analysis
 
+<!---
+
 ### Students Co-Advised with Dr. Yao-Jan Wu at the University of Arizona
 
 <li> Gabriel Geffen: July 2024 - Present </li>
@@ -157,7 +162,7 @@ My research focuses on integrating mathematical modeling, control theory, and AI
   Xi Zhang, Ph.D.: August 2024 – May 2025 <br>
   <span style="font-style: italic;">Dissertation Title: Enhanced Assessment of Intelligent Traffic Control Devices for Vehicle and Pedestrian Safety</span>
 </li>
-
+--->
 
 ## Connect with me 😊 {#connect}
 I enjoy collaborating with colleagues, agencies, and students on advancing safer, smarter, and more sustainable transportation systems.  
@@ -171,7 +176,7 @@ Available for invited talks, workshops, and guest lectures that bridge research 
 
 **Get in Touch**  
 Feel free to reach out anytime:  
-- Email: mfshang at arizona dot edu 
+- Email: mfsite at rit dot edu 
 
 <!---
 * Oct. 2023: I presented the joint work with [Dr. Shian Wang](https://www.shianwang.xyz/), ''Analytical characterization of cyberattacks on adaptive cruise
