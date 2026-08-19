@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "."
 name                     : &name "Mingfeng Shang, Ph.D."
 description              : &description "personal description"
-url                      : https://www.mingfengshang.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.mingfengshang.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smf457524513/smf457524513.github.io"
 
