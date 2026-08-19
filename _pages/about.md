@@ -94,7 +94,9 @@ My research focuses on integrating mathematical modeling, control theory, and AI
 
 ## Journal Publications 📚  {#publications}
 
-
+- Adhikari, U., Zhang, X., **Shang, M.**, and Wu, Y. Evaluating Left-Turn Conflicts Under Permissive Phases Using Trajectory Data: A Comparison of Circular Green and Flashing Yellow Arrow. *Journal of Transportation Engineering, Part A: Systems*. Accepted.
+- Zare, A., **Shang, M.**, Kan, X., and Stern, R. Generalized Multiphase Car-Following Model for Vehicles with Adaptive Cruise Control: Behavioral Dynamics and Experimental Validation for Electric Vehicles. *Journal of Transportation Engineering, Part A: Systems*, 2026.
+- Geffen, G., **Shang, M.**, and Wu, Y. Novel Weather Severity Classifications Based on Speed Reductions Utilizing Machine Learning Techniques. *Transportmetrica A: Transport Science*, 2025.
 - **Shang, M.**, Wang, S., Stern, R. *A two-condition continuous asymmetric car-following model for adaptive cruise control vehicles.*  
   *IEEE Transactions on Intelligent Vehicles*, 2024.  
 - **Shang, M.**, Wang, S., Stern, R. *Extending ramp metering control to mixed autonomy traffic flow with varying degrees of automation.*  
